@@ -1,2 +1,3 @@
+# Read Me
 Author: Manuel Aguilar
-Purpose: COMP001B.LectureActivity2
+Purpose: COMP001B LectureActivity 2
