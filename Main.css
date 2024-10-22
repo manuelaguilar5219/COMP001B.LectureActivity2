@@ -1,0 +1,16 @@
+header {
+    background-color: lightblue;
+    padding: 2px;
+    margin: 3px;
+}
+.paragraph {
+    background-color: blueviolet;
+    border: 5px;
+    width: 250px;
+}
+.paragraph2 {
+    background-color: blueviolet;
+    border: 2px;
+    width: 250px;
+    margin: 25%;
+}
